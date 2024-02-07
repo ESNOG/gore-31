@@ -4,7 +4,7 @@ date: 2023-09-25T11:47:13+02:00
 draft: true
 ---
 
-El registro para asistir a la reunión GORE-30 de ESNOG se hace a través de este enlace:
+El registro para asistir a la reunión GORE-31 de ESNOG se hace a través de este enlace:
 
 
 [https://www.eventbrite.es/e/entradas-esnog-30-evento-hibrido-en-barcelona-los-dias-26-y-27-de-octubre-725984869287?aff=oddtdtcreator](https://www.eventbrite.es/e/entradas-esnog-30-evento-hibrido-en-barcelona-los-dias-26-y-27-de-octubre-725984869287?aff=oddtdtcreator)
