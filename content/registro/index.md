@@ -6,7 +6,7 @@ draft: true
 
 # Registro
 
-El registro para asistir a la reunión GORE-30 de ESNOG se hace a través de este enlace:
+El registro para asistir a la reunión GORE-31 de ESNOG se hace a través de este enlace:
 
 
 [https://www.eventbrite.es/e/entradas-esnog-31-818312724387?aff=oddtdtcreator](https://www.eventbrite.es/e/entradas-esnog-31-818312724387?aff=oddtdtcreator)
