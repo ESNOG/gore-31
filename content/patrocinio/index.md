@@ -1,9 +1,9 @@
 ---
-title: "Patrocinio ESNOG 30"
-date: 2023-03-04
+title: "Patrocinio ESNOG 31"
+date: 2024-04-24
 draft: true 
 ---
 
-Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 30 de ESNOG:
+Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 31 de ESNOG:
 
 {{< sponsors >}}

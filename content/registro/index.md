@@ -1,6 +1,6 @@
 ---
-title: "Registro en ESNOG 30"
-date: 2023-09-25
+title: "Registro en ESNOG 31"
+date: 2024-04-24
 draft: true 
 ---
 
@@ -9,12 +9,12 @@ draft: true
 El registro para asistir a la reunión GORE-30 de ESNOG se hace a través de este enlace:
 
 
-[https://www.eventbrite.es/e/entradas-esnog-30-evento-hibrido-en-barcelona-los-dias-26-y-27-de-octubre-725984869287?aff=oddtdtcreator](https://www.eventbrite.es/e/entradas-esnog-30-evento-hibrido-en-barcelona-los-dias-26-y-27-de-octubre-725984869287?aff=oddtdtcreator)
+[https://www.eventbrite.es/e/entradas-esnog-31-818312724387?aff=oddtdtcreator](https://www.eventbrite.es/e/entradas-esnog-31-818312724387?aff=oddtdtcreator)
 
 
 La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de [alta en la lista de correo de ESNOG.](https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore)
 
-También puedes utilizar el [Slack de ESNOG](https://esnog.slack.com) para estar al día en todas las novedades sobre este evento, y sobre [ESNOG](https://www.esnog.net) en general. 
+También puedes utilizar el canal de Telegram [Telegram ESNOG](https://t.me/esnog_es) para estar al día en todas las novedades sobre este evento, y sobre [ESNOG](https://www.esnog.net) en general. 
 
 ---------------------------
 
