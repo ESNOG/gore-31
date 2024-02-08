@@ -3,7 +3,7 @@ title: "Agenda ESNOG 31"
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/gore31/img/UPC_100.png" alt="UPC" %}}
+{{% portfolio image="/gore31/img/UAM.png" alt="UPC" %}}
 
 **UAM**
 El lugar de la celebración del ESNOG-31, tendrá lugar en:
@@ -31,7 +31,7 @@ Entrega de acreditaciones
 ##### Bienvenida
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
+Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 {{% /portfolio %}}  
@@ -186,7 +186,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
+Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 
 {{% /portfolio %}}  
 
