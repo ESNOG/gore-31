@@ -1,7 +1,5 @@
 ---
 title: "Patrocinio ESNOG 31"
-date: 2024-04-24
-draft: true 
 ---
 
 Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 31 de ESNOG:

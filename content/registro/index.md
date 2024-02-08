@@ -1,7 +1,5 @@
 ---
 title: "Registro en ESNOG 31"
-date: 2024-04-24
-draft: true 
 ---
 
 # Registro

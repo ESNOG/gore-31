@@ -1,11 +1,9 @@
 ---
 title: "Agenda ESNOG 31"
-date: 2024-04-24
-draft: true 
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/gore30/img/UPC_100.png" alt="UPC" %}}
+{{% portfolio image="/gore31/img/UPC_100.png" alt="UPC" %}}
 
 **UAM**
 El lugar de la celebración del ESNOG-31, tendrá lugar en:
@@ -123,10 +121,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 
 ### 15:30 - 16:15 CEST
-### Puntos Neutros
-
-##### CATNIX 
-
+#####  Por definir
 
 **Por definir**
 
@@ -135,32 +130,11 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
-
-##### DE-CIX
-
-
-**Por definir**
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}} 
-
-##### Espanix
-
-**Por definir**
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
 
 ---------------------------
 ### 16:15-16:45  
 #### Pausa para Café
-{{% portfolio image="/gore30/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
 {{% /portfolio %}} 
 
@@ -168,7 +142,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ### 16:45 - 17:15 CEST
 ##### Por definir
 **Por definir**
-{{% portfolio image="/gore30/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
+{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
@@ -177,19 +151,20 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 ---------------------------
 ### 17:20 - 18:00 CEST
-##### Asamblea General de Socios ESNOG
+##### Por definir
+**Por definir**
+{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**ESNOG** 
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+
 {{% /portfolio %}}  
 
 ---------------------------
 
 ### 19:00 - 21:00 CEST
 #### Beers & Talk
-{{% portfolio image="/gore30/img/party01-icon.png" alt="cafe" %}}
+{{% portfolio image="/gore31/img/party01-icon.png" alt="cafe" %}}
 ([*El lugar se anunciara durante la sesión*](/gore31/archivos/esnog.pdf))
 {{% /portfolio %}} 
 
@@ -199,7 +174,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 ([*Las invitaciones se repartiran durante las sesiones*](/gore31/archivos/esnog.pdf))
 
-{{% portfolio image="/gore30/img/diner_small.jpg" alt="cena" %}}
+{{% portfolio image="/gore31/img/diner_small.jpg" alt="cena" %}}
 {{% /portfolio %}} 
 
 ---------------------------
@@ -346,15 +321,13 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 
 ### 15:30 - 16:00 CEST 
-##### Por definir
-
-**Por definir**
-
+##### AOB, Concurso y Despedida
+**ESNOG** 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
-{{% /portfolio %}} 
+{{% /portfolio %}}
 
 
 ---------------------------
