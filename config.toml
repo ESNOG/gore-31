@@ -55,11 +55,6 @@ pygmentsUseClasses = true # new add
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/esnog/"
-[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
@@ -71,10 +66,9 @@ pygmentsUseClasses = true # new add
 #    url = "https://www.linkedin.com/in/naro143/"
 [[params.social]]
     # If icon is not set, Text is displayed.
-    name = "Slack"
+    name = "Telegram"
     weight = 4
-    url = "https://esnog.slack.com/"
-
+    url = "@esnog_es"
 # Menu links
 [[menu.main]]
     name = "Registro"
