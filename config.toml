@@ -68,7 +68,7 @@ pygmentsUseClasses = true # new add
     # If icon is not set, Text is displayed.
     name = "Telegram"
     weight = 4
-    url = "@esnog_es"
+    url = "https://t.me/esnog_es"
 # Menu links
 [[menu.main]]
     name = "Registro"
