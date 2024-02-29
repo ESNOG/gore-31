@@ -38,5 +38,16 @@ title: "Presentaciones para ESNOG 31"
 
 ---------------------------
 
+### How a Meta datacenter works
+
+**Mohsen Dalil** (META)
+
+---------------------------
+
+### El reto de la eficiencia energética para los DC
+
+**Javier Achirica** (ESPANIX)
+
+---------------------------
 
 {{< sponsors >}}
