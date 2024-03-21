@@ -156,6 +156,9 @@ Mostrar el diseño de la nueva red y datos relevantes sobre las comunicaciones c
 
 ##### How a Meta datacenter works
 
+**Mohsen Dalil (Meta)**
+
+
 ** Por definir **
 
 
@@ -192,7 +195,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Marcos Sanz** 
 
-{{% portfolio image="/gore31/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore31/img/MarcosSanz_small.jpg" alt="Marcos Sanz" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -205,7 +208,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [ESPANIX](https://www.espanix.net/es)
 
-{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore31/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -429,3 +432,4 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 
 
 ---------------------------
+{{< sponsors >}}
