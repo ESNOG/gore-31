@@ -5,6 +5,7 @@
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.info }}</h2>
+    {{ partial "sponsors.html" . }}
     {{ with .Site.Params.social }}
     <ul class="social-list">
       {{ range sort . "weight"}}
