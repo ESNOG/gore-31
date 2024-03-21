@@ -161,7 +161,7 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 
 ##### How a Meta datacenter works
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore31/img/mohsen.jpg" alt="Mohsen Dalil" %}}
 
 
 ** Mohsen Dalil (Meta) **
@@ -183,7 +183,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore31/img/MariaIsabelGandia_FULL.png" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -210,7 +210,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### ESPANIX
 
-{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore31/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
 
 **Javier Achirica** 
 
@@ -325,7 +325,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 ### 9:30 - 10:00 CEST     
 #####  Tendencias en herramientas de monitorización de redes: resultados de la encuesta
 
-{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore31/img/MariaIsabelGandia_FULL.png" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
