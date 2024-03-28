@@ -1,11 +1,5 @@
-# gore-30
+# gore-31
 
-This is the md code for the GORE-30 Esnog meeting. 
+This is the md code for the GORE-31 Esnog meeting. 
 
-Site: https://esnog.net/gore30
-# gore-30
-# gore-30
-# gore-30
-# gore-31” >> README.md
-
-echo # gore-31”
+Site: https://esnog.net/gore31
