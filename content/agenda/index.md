@@ -127,7 +127,7 @@ Mostrar el diseño de la nueva red y datos relevantes sobre las comunicaciones c
 
 ### 12:45 - 13:30 CEST
 
-##### Uso del procolo QUIC y algúnas de sus implicaciones
+##### Osificación de Internet. El protocolo QUIC.
 
 {{% portfolio image="/gore31/img/octavio_alfageme.jpg" alt="Octavio Alfageme" %}}
 
@@ -255,11 +255,13 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ### 17:15 - 17:45 CEST
 
-##### Por definir
-
-**Por definir**
+##### Cómo Mikrotik arruinó mi vida
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+**Felipe Cañizares (weareDMNTRs)**
+
+[https://dmntr.net/](https://dmntr.net/)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
@@ -312,6 +314,7 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 ## Dia 25 de Abril de 2024
 
 ### 9:00 - 9:30 CEST 
+
 ##### Registro y Bienvenida
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -339,7 +342,8 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 
 ---------------------------
 
-### 10:00 - 10:30 CEST     
+### 10:00 - 10:30 CEST 
+
 #####  Por definir
 
 **Por definir**
@@ -355,6 +359,7 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 ### 10:30 - 11:00 CEST     
 #####  Analizando capturas con Wireshark
 
+
 {{% portfolio image="/gore31/img/eva_maria_castro.jpg" alt="Eva María Castro" %}}
 
 **Eva María Castro**
@@ -368,7 +373,8 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ---------------------------
 
-### 11:00-11:30  
+### 11:00-11:30
+
 #### Pausa para Café
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -377,12 +383,17 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ---------------------------
 
-### 11:30 - 12:00 CEST     
-#####  Por definir
+### 11:30 - 12:00 CEST
 
-**Por definir**
+{{% portfolio image="/gore31/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+#####  El reto de la eficiencia energética para los Datacenters
+
+**Javier Achirica**
+
+[https://www.espanix.net/es](https://www.espanix.net/es)
+
+Las nuevas leyes europeas establecen planes y objetivos de eficiencia energética que se aplican a todos los DC medianos y grandes. Vamos a ver cuales son los requerimientos y las actuaciones necesarias para cumplir. Y de paso ahorrar en el gasto energético.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -390,7 +401,8 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ---------------------------
 
-### 12:00 - 12:30 CEST 
+### 12:00 - 12:15 CEST
+
 ##### Por definir
 
 **Por definir**
@@ -404,9 +416,9 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ---------------------------
 
-
 ### 12:15 - 13:00 CEST
-#####  Tendencias en herramientas de monitorización de redes: resultados de la encuesta
+
+#####  Como Mikrotik arruinó mi vida
 
 {{% portfolio image="/gore31/img/felipe_canyizares.jpg" alt="Felipe Cañizares" %}}
 
@@ -438,7 +450,8 @@ De la droga se sale, de Mikrotik no.
 
 ---------------------------
 
-### 14:30 - 15:00 CEST 
+### 14:30 - 15:00 CEST
+
 ##### Por definir
 
 **Por definir**
@@ -453,6 +466,7 @@ De la droga se sale, de Mikrotik no.
 ---------------------------
 
 ### 15:00 - 15:30 CEST 
+
 ##### Por definir
 
 **Por definir**
@@ -466,8 +480,10 @@ De la droga se sale, de Mikrotik no.
 
 ---------------------------
 
-### 15:30 - 16:00 CEST 
+### 15:30 - 16:00 CEST
+
 ##### AOB, Concurso y Despedida
+
 **ESNOG** 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
