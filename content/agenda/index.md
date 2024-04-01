@@ -183,7 +183,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore31/img/MariaIsabelGandia_FULL.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -328,7 +328,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 ### 9:30 - 10:00 CEST     
 #####  Tendencias en herramientas de monitorización de redes: resultados de la encuesta
 
-{{% portfolio image="/gore31/img/MariaIsabelGandia_FULL.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -356,13 +356,16 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 
 ---------------------------
 
-### 10:30 - 11:00 CEST 
+### 10:30 - 11:00 CEST     
+#####  Analizando capturas con Wireshark
 
-#####  Por definir
 
-**Por definir**
+{{% portfolio image="/gore31/img/eva_maria_castro.jpg" alt="Eva María Castro" %}}
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+**Eva María Castro**
+
+En esta presentación se mostrará el uso de filtros y perfiles en Wireshark para observar ciertas características del tráfico, permitiendo un análisis más sencillo y específico de un determinado protocolo.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -398,7 +401,7 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 ---------------------------
 
-### 12:00 - 12:30 CEST
+### 12:00 - 12:15 CEST
 
 ##### Por definir
 
@@ -413,14 +416,22 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 ---------------------------
 
+### 12:15 - 13:00 CEST
 
-### 12:30 - 13:00 CEST
+#####  Como Mikrotik arruinó mi vida
 
-#####  Por definir
+{{% portfolio image="/gore31/img/felipe_canyizares.jpg" alt="Felipe Cañizares" %}}
 
-**Por definir**
+**Felipe Cañizares**
+
+[DMNTR Network Solutions](https://dmntr.net/)
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+
+La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
+Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
+De la droga se sale, de Mikrotik no.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
