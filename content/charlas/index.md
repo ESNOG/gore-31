@@ -10,7 +10,7 @@ title: "Presentaciones para ESNOG 31"
 
 ---------------------------
 
-### Uso del protocolo QUIC y algunas de sus implicaciones
+### Osificación de Internet. El protocolo QUIC.
 
 **Octavio Alfageme**
 
