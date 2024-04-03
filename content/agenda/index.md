@@ -15,38 +15,31 @@ Escuela Politécnica Superior de la Universidad Autónoma de Madrid, en el campu
 https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/la-escuela-2/Page/localizacion/localizacion.htm
 
 
-
 {{% /portfolio %}} 
+
 
 ## Dia 24 de Abril de 2024
 ---------------------------
 
 ### 9:30 - 10:00 CEST 
 
-##### Registro
+#### Registro y entrega de acreditaciones
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Entrega de acreditaciones
-
-{{% /portfolio %}}  
-
+#
 ---------------------------
 
 ### 10:00 - 10:15 CEST 
 
-##### Bienvenida y Presentación Patrocinadores
+#### Bienvenida y Presentación Patrocinadores
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
 
 Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible este evento.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
-{{% /portfolio %}}  
-
+#
 ---------------------------
 
 ### 10:15 - 10:45 CEST
@@ -164,7 +157,7 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 {{% portfolio image="/gore31/img/mohsen.jpg" alt="Mohsen Dalil" %}}
 
 
-** Mohsen Dalil (Meta) **
+**Mohsen Dalil**
 
 [https://www.meta.com/es/](https://www.meta.com/es/)
 
@@ -210,7 +203,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### ESPANIX
 
-{{% portfolio image="/gore31/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
 
 **Javier Achirica** 
 
@@ -253,21 +246,22 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ---------------------------
 
-### 17:15 - 17:45 CEST
+### 17:15 - 18:15 CEST
 
-##### Cómo Mikrotik arruinó mi vida
+##### Mesa Redonda:
+#####
+##### El fallido bloqueo a Telegram. Algunas reflexiones.
+##### Afectación de ordenes judiciales al ecosistema de Internet en España.
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+#
 
-**Felipe Cañizares (weareDMNTRs)**
+**Participantes:**
 
-[https://dmntr.net/](https://dmntr.net/)
+**- Tomas Ledo [Tecnocratica](https://ww.tecnocratica.net)**\
+**- Por confirmar resto participantes**
 
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
-
+ 
+#
 ---------------------------
 
 
@@ -275,12 +269,8 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ##### JUNTA SOCIOS ESNOG
 
-**Miembros ESNOG**
-
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -297,6 +287,7 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 {{% /portfolio %}} 
 
+#
 ---------------------------
 
 ### 21:00 - 23:00 CEST
@@ -307,8 +298,11 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ([*Las invitaciones se repartiran durante las sesiones*](/gore31/archivos/esnog.pdf))
 
-{{% /portfolio %}} 
 
+{{% /portfolio %}}
+
+
+#
 ---------------------------
 
 ## Dia 25 de Abril de 2024
@@ -317,12 +311,9 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ##### Registro y Bienvenida
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-31
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
-
-{{% /portfolio %}}  
-
+#
 ---------------------------
 
 ### 9:30 - 10:00 CEST     
@@ -344,11 +335,14 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 
 ### 10:00 - 10:30 CEST 
 
-#####  Por definir
+######  Titulo por definir 
 
-**Por definir**
+{{% portfolio image="/gore31/img/gael_hernandez.jpg" alt="Gaël Hernandez" %}}
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+**Gaël Hernandez**
+
+Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lleva a cabo, cuáles son las fuentes de datos públicas disponibles y que podemos esperar con la cobertura BGP actual. Más adelante, se explora una metodología para mejorar la cobertura del monitoreo y se presentan los resultados de aplicarla en el contexto español.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -385,7 +379,7 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ### 11:30 - 12:00 CEST
 
-{{% portfolio image="/gore31/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
 
 #####  El reto de la eficiencia energética para los Datacenters
 
@@ -426,8 +420,6 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 [DMNTR Network Solutions](https://dmntr.net/)
 
-
-
 La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
 Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
 De la droga se sale, de Mikrotik no.
@@ -453,7 +445,7 @@ De la droga se sale, de Mikrotik no.
 
 ##### Por definir
 
-**Por definir**
+
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
@@ -468,7 +460,6 @@ De la droga se sale, de Mikrotik no.
 
 ##### Por definir
 
-**Por definir**
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
@@ -483,12 +474,6 @@ De la droga se sale, de Mikrotik no.
 
 ##### AOB, Concurso y Despedida
 
-**ESNOG** 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}}
 
 
 ---------------------------
