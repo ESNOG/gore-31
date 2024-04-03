@@ -426,7 +426,6 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 [DMNTR Network Solutions](https://dmntr.net/)
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 
 La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
