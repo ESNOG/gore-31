@@ -420,7 +420,6 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 [DMNTR Network Solutions](https://dmntr.net/)
 
-
 La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
 Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
 De la droga se sale, de Mikrotik no.
