@@ -10,9 +10,11 @@ title: "Agenda ESNOG 31"
 
 El lugar de la celebración del ESNOG-31, tendrá lugar en:
 
-Escuela Politécnica Superior de la Universidad Autónoma de Madrid, en el campus de Cantoblanco
+Salón de Grados, edificio C  
+Escuela Politécnica Superior de la Universidad Autónoma de Madrid  
+Campus de Cantoblanco  
 
-https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/la-escuela-2/Page/localizacion/localizacion.htm
+https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Localizaci%3Fn&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&pid=1242660083021
 
 
 {{% /portfolio %}} 

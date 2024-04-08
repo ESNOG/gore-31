@@ -104,7 +104,7 @@
       <link>http://localhost:1313/gore31/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gore31/agenda/</guid>
-      <description>Lugar de la Reunion UAM&#xA;El lugar de la celebración del ESNOG-31, tendrá lugar en:&#xA;Escuela Politécnica Superior de la Universidad Autónoma de Madrid, en el campus de Cantoblanco&#xA;https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/la-escuela-2/Page/localizacion/localizacion.htm&#xA;Dia 24 de Abril de 2024 9:30 - 10:00 CEST Registro Entrega de acreditaciones&#xA;10:00 - 10:15 CEST Bienvenida y Presentación Patrocinadores Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31&#xA;Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible este evento.</description>
+      <description>Lugar de la Reunion UAM&#xA;El lugar de la celebración del ESNOG-31, tendrá lugar en:&#xA;Salón de Grados, edificio C&#xA;Escuela Politécnica Superior de la Universidad Autónoma de Madrid&#xA;Campus de Cantoblanco&#xA;https://www.uam.es/ss/Satellite?c=Page&amp;amp;cid=1446803444348&amp;amp;language=es&amp;amp;nodepath=Localizaci%3Fn&amp;amp;pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&amp;amp;pid=1242660083021&#xA;Dia 24 de Abril de 2024 9:30 - 10:00 CEST Registro y entrega de acreditaciones 10:00 - 10:15 CEST Bienvenida y Presentación Patrocinadores Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31&#xA;Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible este evento.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -125,7 +125,7 @@
       <link>http://localhost:1313/gore31/charlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gore31/charlas/</guid>
-      <description>Uso de redes Lorawan para dar una capa de servicio a las redes de comunicaciones Ivan Boluda&#xA;Uso del protocolo QUIC y algunas de sus implicaciones Octavio Alfageme&#xA;Ataques SIP y otras hierbas Angel Elena Medina (CRAEM)&#xA;Tendencias en herramientas de monitorización de redes: resultados de la encuesta Maria Isabel Gandia (GEANT)&#xA;Puntos neutros Marcos Sanz (DE-CIX)&#xA;Javier Achirica (ESPANIX)&#xA;Maria Isabel Gandia (CATNIX)&#xA;How a Meta datacenter works Mohsen Dalil (META)</description>
+      <description>Uso de redes Lorawan para dar una capa de servicio a las redes de comunicaciones Ivan Boluda&#xA;Osificación de Internet. El protocolo QUIC. Octavio Alfageme&#xA;Ataques SIP y otras hierbas Angel Elena Medina (CRAEM)&#xA;Tendencias en herramientas de monitorización de redes: resultados de la encuesta Maria Isabel Gandia (GEANT)&#xA;Puntos neutros Marcos Sanz (DE-CIX)&#xA;Javier Achirica (ESPANIX)&#xA;Maria Isabel Gandia (CATNIX)&#xA;How a Meta datacenter works Mohsen Dalil (META)</description>
     </item>
     <item>
       <title>Registro en ESNOG 31</title>
