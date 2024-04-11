@@ -1,18 +1,19 @@
 ---
-title: "Agenda ESNOG 31"
+title: "Agenda - ESNOG 31"
 ---
+
 
 ## Lugar de la Reunion
 
-{{% portfolio image="/gore31/img/UAM.png" alt="UPC" %}}
 
-**UAM**
+{{% portfolio %}}
+
 
 El lugar de la celebración del ESNOG-31, tendrá lugar en:
 
-Salón de Grados, edificio C  
+**Salón de Grados, edificio C  
 Escuela Politécnica Superior de la Universidad Autónoma de Madrid  
-Campus de Cantoblanco  
+Campus de Cantoblanco**  
 
 https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Localizaci%3Fn&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&pid=1242660083021
 
@@ -20,13 +21,15 @@ https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Lo
 {{% /portfolio %}} 
 
 
+
+
 ## Dia 24 de Abril de 2024
 ---------------------------
 
-### 9:30 - 10:00 CEST 
+### 9:30 - 10:00 CEST
+
 
 #### Registro y entrega de acreditaciones
-
 
 #
 ---------------------------
@@ -34,6 +37,7 @@ https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Lo
 ### 10:00 - 10:15 CEST 
 
 #### Bienvenida y Presentación Patrocinadores
+#
 
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
@@ -46,44 +50,65 @@ Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible
 
 ### 10:15 - 10:45 CEST
 
-##### Opengear
+##### Ultra Ethernet
+#
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore31/img/eduardo_collado.jpg" alt="Eduardo Collado" %}}
+
+**Eduardo Collado (Tecnocratica)**
+
+[https://tecnocratica.net/](https://tecnocratica.net/)
+
+
+En las redes Ethernet tenemos mucha sobrecarga que afecta al rendimiento de las aplicaciones. Esta sobrecarga provoca que aplicaciones de IA y de HPC necesiten nuevas formas de intercambiar los datos, ahí es donde entran tecnologías como ultraethernet
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
+
+#
 ---------------------------
 
 ### 10:45 - 11:15 CEST
 
-#####  Por definir
+##### Proyecto MadQuantum-CM: red de comunicaciones cuánticas de la comunidad de Madrid.
+#
 
-**Por definir**
+{{% portfolio image="/gore31/img/david_rincon.jpg" alt="David Rincón" %}}
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+**David Rincon (REDIMadrid - IMDEA Software)**
+
+[https://madqci.es](https://madqci.es) MadQCI (Madrid Quantum Communication Infrastructure)
+
+Mostrar el diseño de la nueva red y datos relevantes sobre las comunicaciones cuánticas en redes de investigación y cómo aplica a las redes autonómicas/nacionales, sobre lo que comentas que será la primera charla sobre este tema, no te preocupes la charla está enfocada desde el punto de vista de un ingeniero de redes, no tanto de un investigador o físico sobre comunicaciones cuánticas, es decir, el foco es que tenemos que tener en cuenta los ingenieros que diseñamos redes para poder integrar equipos QKD.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
-{{% /portfolio %}} 
+{{% /portfolio %}}  
 
 
+#
 ---------------------------
 
 ### 11:15-11:45
-
-#### Pausa para Café
+#
 
 {{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
+### Pausa para Café
+
 {{% /portfolio %}}  
 
+
+#
 ---------------------------
 
-### 11:45 - 12:15 CEST
+### 11:45 - 12:30 CEST
 
 #####  Uso de redes LORAWAN para dar una capa de servicio a las redes de comunicaciones
+#
 
 {{% portfolio image="/gore31/img/ivan_boluda.jpg" alt="Ivan Boluda" %}}
 
@@ -99,30 +124,13 @@ Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándono
 {{% /portfolio %}} 
 
 
+#
 ---------------------------
 
-### 12:15 - 12:45 CEST
+### 12:30 - 13:15 CEST
 
-##### Proyecto MadQuantum-CM: red de comunicaciones cuánticas de la comunidad de Madrid.
-
-{{% portfolio image="/gore31/img/david_rincon.jpg" alt="David Rincón" %}}
-
-**David Rincon (REDIMadrid - IMDEA Software)**
-
-[https://madqci.es](https://madqci.es) MadQCI (Madrid Quantum Communication Infrastructure)
-
-Mostrar el diseño de la nueva red y datos relevantes sobre las comunicaciones cuánticas en redes de investigación y cómo aplica a las redes autonómicas/nacionales, sobre lo que comentas que será la primera charla sobre este tema, no te preocupes la charla está enfocada desde el punto de vista de un ingeniero de redes, no tanto de un investigador o físico sobre comunicaciones cuánticas, es decir, el foco es que tenemos que tener en cuenta los ingenieros que diseñamos redes para poder integrar equipos QKD.
-
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
-
----------------------------
-
-### 12:45 - 13:30 CEST
-
-##### Osificación de Internet. El protocolo QUIC.
+#### Osificación de Internet. El protocolo QUIC.
+#
 
 {{% portfolio image="/gore31/img/octavio_alfageme.jpg" alt="Octavio Alfageme" %}}
 
@@ -138,23 +146,25 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 {{% /portfolio %}} 
 
 
+#
 ---------------------------
 
-
 ### 13:30 - 15:00 CEST 
-
-##### COMIDA
+#
 
 {{% portfolio image="/gore31/img/lunch-icon-small.png" alt="comida" %}}
+
+### COMIDA
 
 {{% /portfolio %}}
 
 
+#
 ---------------------------
 
 ### 15:00 - 15:30 CEST
 
-##### How a Meta datacenter works
+#### How a Meta datacenter works
 
 {{% portfolio image="/gore31/img/mohsen.jpg" alt="Mohsen Dalil" %}}
 
@@ -168,6 +178,8 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
 ### 15:30 - 16:15 CEST
@@ -217,21 +229,26 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 {{% /portfolio %}}  
 
 
+#
 ---------------------------
 
 ### 16:15-16:45  
+#
 
-#### Pausa para Café
 
 {{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
+### Pausa para Café
+
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
 ### 16:45 - 17:15 CEST
 
-##### Ataques SIP y otras hierbas
+#### Ataques SIP y otras hierbas
 
 {{% portfolio image="/gore31/img/angel_elena.jpg" alt="Angel Elena" %}}
 
@@ -246,6 +263,8 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 {{% /portfolio %}}  
 
+
+#
 ---------------------------
 
 ### 17:15 - 18:15 CEST
@@ -259,46 +278,53 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 **Participantes:**
 
-**- Tomas Ledo [Tecnocratica](https://ww.tecnocratica.net)**\
+**- Tomas Ledo - [Tecnocratica](https://ww.tecnocratica.net)**\
+**- Juan Antonio Lara Domínguez - Magistrado**\
 **- Por confirmar resto participantes**
 
  
 #
 ---------------------------
 
-
 ### 17:45 - 18:45 CEST
 
-##### JUNTA SOCIOS ESNOG
 
 {{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
+### JUNTA SOCIOS ESNOG
 
 {{% /portfolio %}}  
 
+
+#
 ---------------------------
 
-
 ### 19:30 - 20:45 CEST
+#
 
-#### Beers & Talk
 
 {{% portfolio image="/gore31/img/party01-icon.png" alt="cafe" %}}
 
-([*El lugar se anunciara durante la sesión*](/gore31/archivos/esnog.pdf))
+### Beers & Talk
+
+El lugar donde se efectuará este acto social se anunciará durante la primera sesión
 
 {{% /portfolio %}} 
+
 
 #
 ---------------------------
 
 ### 21:00 - 23:00 CEST
+#
 
-#### Cena ESNOG
 
 {{% portfolio image="/gore31/img/diner_small.jpg" alt="cena" %}}
 
-([*Las invitaciones se repartiran durante las sesiones*](/gore31/archivos/esnog.pdf))
+### Cena ESNOG
+
+- Las invitaciones se repartiran durante el evento del primer día.
+- Las plazas son limitas, por lo que es necesario estar inscrito previamente.
 
 
 {{% /portfolio %}}
@@ -311,14 +337,15 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ### 9:00 - 9:30 CEST 
 
-##### Registro y Bienvenida
+#### Registro y Bienvenida
 
 Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-31
+
 
 #
 ---------------------------
 
-### 9:30 - 10:00 CEST     
+### 9:30 - 10:15 CEST     
 #####  Tendencias en herramientas de monitorización de redes: resultados de la encuesta
 
 {{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
@@ -333,11 +360,13 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
-### 10:00 - 10:30 CEST 
+### 10:15 - 11:00 CEST 
 
-######  Titulo por definir 
+####  Datos disponibles para el monitoreo de BGP en España: análisis y resultados
 
 {{% portfolio image="/gore31/img/gael_hernandez.jpg" alt="Gaël Hernandez" %}}
 
@@ -350,15 +379,29 @@ Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lle
 
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
-### 10:30 - 11:00 CEST     
-#####  Analizando capturas con Wireshark
+### 11:00-11:30
+#
 
+{{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+
+### Pausa para Café
+
+{{% /portfolio %}} 
+
+#
+---------------------------
+
+### 11:30 - 12:15 CEST
+
+####  Analizando capturas con Wireshark
 
 {{% portfolio image="/gore31/img/eva_maria_castro.jpg" alt="Eva María Castro" %}}
 
-**Eva María Castro**
+**Eva María Castro** [https://www.urjc.es/eif](https://www.urjc.es/eif)
 
 En esta presentación se mostrará el uso de filtros y perfiles en Wireshark para observar ciertas características del tráfico, permitiendo un análisis más sencillo y específico de un determinado protocolo.
 
@@ -367,23 +410,17 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
-### 11:00-11:30
+### 12:15 - 13:00 CEST
 
-#### Pausa para Café
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-{{% /portfolio %}} 
-
----------------------------
-
-### 11:30 - 12:00 CEST
+####  El reto de la eficiencia energética para los Datacenters
 
 {{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
 
-#####  El reto de la eficiencia energética para los Datacenters
+
 
 **Javier Achirica**
 
@@ -395,26 +432,28 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 {{% /portfolio %}} 
 
+
+#
 ---------------------------
 
-### 12:00 - 12:15 CEST
-
-##### Por definir
-
-**Por definir**
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}} 
+### 13:00 - 14:30 CEST 
+#
 
 
+{{% portfolio image="/gore31/img/lunch-icon-small.png" alt="comida" %}}
+
+### COMIDA
+
+{{% /portfolio %}}
+
+
+#
 ---------------------------
 
-### 12:15 - 13:00 CEST
 
-#####  Como Mikrotik arruinó mi vida
+### 14:30 - 15:15 CEST
+
+####  Como Mikrotik arruinó mi vida
 
 {{% portfolio image="/gore31/img/felipe_canyizares.jpg" alt="Felipe Cañizares" %}}
 
@@ -431,34 +470,10 @@ De la droga se sale, de Mikrotik no.
 {{% /portfolio %}} 
 
 
+#
 ---------------------------
 
-### 13:00 - 14:30 CEST 
-
-##### COMIDA
-
-{{% portfolio image="/gore31/img/lunch-icon-small.png" alt="comida" %}}
-
-{{% /portfolio %}}
-
----------------------------
-
-### 14:30 - 15:00 CEST
-
-##### Por definir
-
-
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
-
-{{% /portfolio %}} 
-
-
----------------------------
-
-### 15:00 - 15:30 CEST 
+### 15:15 - 15:45 CEST
 
 ##### Por definir
 
@@ -470,14 +485,15 @@ De la droga se sale, de Mikrotik no.
 {{% /portfolio %}} 
 
 
+#
 ---------------------------
 
-### 15:30 - 16:00 CEST
+### 15:45 - 16:30 CEST
 
-##### AOB, Concurso y Despedida
+#### AOB, Concurso y Despedida
 
 
-
+#
 ---------------------------
 
 {{< sponsors >}}

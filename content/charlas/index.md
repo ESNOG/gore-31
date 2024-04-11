@@ -1,31 +1,44 @@
 ---
-title: "Presentaciones para ESNOG 31"
+title: "Presentaciones -  ESNOG 31"
 ---
 
+
+---------------------------
+
+### Ultra Ethernet
+
+**Eduardo Collado** (Tecnocratica)
+
+#
+---------------------------
+
+### Proyecto MadQuantum-CM: red de comunicaciones cuánticas de la comunidad de Madrid.
+
+**David Rincon**  (REDIMadrid - IMDEA Software)
+
+#
 ---------------------------
 
 ### Uso de redes Lorawan para dar una capa de servicio a las redes de comunicaciones
 
-**Ivan Boluda**
+**Ivan Boluda** (Bconsultors)
 
+#
 ---------------------------
 
 ### Osificación de Internet. El protocolo QUIC.
 
-**Octavio Alfageme**
+**Octavio Alfageme** (Nopacketloss)
 
+#
 ---------------------------
 
-### Ataques SIP y otras hierbas
 
-**Angel Elena Medina** (CRAEM)
+### How a Meta datacenter works
 
----------------------------
+**Mohsen Dalil** (META)
 
-### Tendencias en herramientas de monitorización de redes: resultados de la encuesta
-
-**Maria Isabel Gandia** (GEANT)
-
+#
 ---------------------------
 
 ### Puntos neutros
@@ -36,12 +49,46 @@ title: "Presentaciones para ESNOG 31"
 
 **Maria Isabel Gandia** (CATNIX)
 
+
+#
 ---------------------------
 
-### How a Meta datacenter works
+### Ataques SIP y otras hierbas
 
-**Mohsen Dalil** (META)
+**Angel Elena Medina** (CRAEM)
 
+#
+---------------------------
+
+
+### Mesa Redonda:
+###
+**El fallido bloqueo a Telegram. Algunas reflexiones.** \
+**Afectación de ordenes judiciales al ecosistema de Internet en España.**
+
+#
+---------------------------
+
+
+### Tendencias en herramientas de monitorización de redes: resultados de la encuesta
+
+**Maria Isabel Gandia** (GEANT)
+
+#
+---------------------------
+
+######  Datos disponibles para el monitoreo de BGP en España: análisis y resultados
+
+**Gaël Hernandez**
+
+#
+---------------------------
+
+#####  Analizando capturas con Wireshark
+
+**Eva María Castro** (Universidad Rey Juan Carlos)
+
+#
 ---------------------------
 
 ### El reto de la eficiencia energética para los DC
@@ -49,5 +96,13 @@ title: "Presentaciones para ESNOG 31"
 **Javier Achirica** (ESPANIX)
 
 ---------------------------
+
+#####  Como Mikrotik arruinó mi vida
+
+**Felipe Cañizares** (DMNTR Network Solutions)
+
+#
+---------------------------
+
 
 {{< sponsors >}}
