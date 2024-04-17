@@ -2,14 +2,16 @@
 title: "Agenda - ESNOG 31"
 ---
 
+---------------------------
+---------------------------
 
-## Lugar de la Reunion
 
-
-{{% portfolio %}}
+## Asistencia Presencial 
+#
 
 
 El lugar de la celebración del ESNOG-31, tendrá lugar en:
+
 
 **Salón de Grados, edificio C  
 Escuela Politécnica Superior de la Universidad Autónoma de Madrid  
@@ -17,10 +19,32 @@ Campus de Cantoblanco**
 
 https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Localizaci%3Fn&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&pid=1242660083021
 
+{{% portfolio %}}
 
 {{% /portfolio %}} 
 
+#
 
+## Asistencia online
+#
+
+También existe la posibilidad de seguir el evento en el canal del ESNOG en youtube:
+
+
+https://www.youtube.com/@esnognet
+
+
+La emisión del evento estará disponible en el siguiente enlace:
+
+https://www.youtube.com/@esnognet/live
+
+
+{{% portfolio %}}
+
+{{% /portfolio %}} 
+
+---------------------------
+---------------------------
 
 
 ## Dia 24 de Abril de 2024
@@ -79,9 +103,14 @@ En las redes Ethernet tenemos mucha sobrecarga que afecta al rendimiento de las 
 
 **David Rincon (REDIMadrid - IMDEA Software)**
 
-[https://madqci.es](https://madqci.es) MadQCI (Madrid Quantum Communication Infrastructure)
+MadQCI (Madrid Quantum Communication Infrastructure)
 
-Mostrar el diseño de la nueva red y datos relevantes sobre las comunicaciones cuánticas en redes de investigación y cómo aplica a las redes autonómicas/nacionales, sobre lo que comentas que será la primera charla sobre este tema, no te preocupes la charla está enfocada desde el punto de vista de un ingeniero de redes, no tanto de un investigador o físico sobre comunicaciones cuánticas, es decir, el foco es que tenemos que tener en cuenta los ingenieros que diseñamos redes para poder integrar equipos QKD.
+[https://software.imdea.org/](https://software.imdea.org/) 
+
+
+El Proyecto MadQuantum-CM es un proyecto enmarcado en los Planes Complementarios de I+D+I en el marco del Plan de Recuperación, Transformación y Resiliencia dentro de la línea dedicada a “COMUNICACIÓN CUÁNTICA”. En el participan, dentro de la Comunidad de Madrid, varias universidades y centros de investigación.
+
+El propósito a largo plazo de este proyecto es posicionarse dentro del panorama europeo de las comunicaciones cuánticas, en este sentido, el proyecto abarcará el diseño de una red cuántica estable en la comunidad de Madrid, para que se puede avanzar en la investigación de este tipo de tecnología, la ponencia mostrará el diseño de la nueva red y datos relevantes sobre las comunicaciones cuánticas en redes de investigación y cómo aplica a las redes autonómicas/nacionales.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
@@ -346,7 +375,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 ---------------------------
 
 ### 9:30 - 10:15 CEST     
-#####  Tendencias en herramientas de monitorización de redes: resultados de la encuesta
+#####  Tendencias en herramientas de monitorización de redes y modelo de madurez en automatización, orquestación y virtualización
 
 {{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
 
@@ -354,7 +383,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 [https://geant.org/](https://geant.org/)
 
-El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un esfuerzo comunitario iniciado por las Redes Nacionales de Investigación y Educación (NREN) reunidas en el marco de la Asociación GÉANT en Europa. Periódicamente, SIG-NOC realiza una encuesta entre centros de operación de red (NOCs) sobre las herramientas que éstos utilizan para cada una de sus funciones. Esta presentación resumirá los [resultados de la última encuesta](https://wiki.geant.org/display/SIGNOC/SIG-NOC+Tools+Survey+2023), aportando información sobre las herramientas mejor valoradas, más importantes y más populares para cada una de las funciones evaluadas, así como tendencias en comparación con encuestas anteriores y algunas curiosidades.
+El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un esfuerzo comunitario iniciado por las Redes Nacionales de Investigación y Educación (NREN) reunidas en el marco de la Asociación GÉANT en Europa. Periódicamente, SIG-NOC realiza una encuesta entre centros de operación de red (NOCs) sobre las herramientas que éstos utilizan para cada una de sus funciones. Esta presentación resumirá los [resultados de la última encuesta](https://wiki.geant.org/display/SIGNOC/SIG-NOC+Tools+Survey+2023), aportando información sobre las herramientas mejor valoradas, más importantes y más populares para cada una de las funciones evaluadas, así como tendencias en comparación con encuestas anteriores y algunas curiosidades. Además, se introducirá el modelo de madurez en orquestación, automatización y virtualización de GÉANT
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
@@ -401,7 +430,9 @@ Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lle
 
 {{% portfolio image="/gore31/img/eva_maria_castro.jpg" alt="Eva María Castro" %}}
 
-**Eva María Castro** [https://www.urjc.es/eif](https://www.urjc.es/eif)
+**Eva María Castro** 
+
+[https://www.urjc.es/eif](https://www.urjc.es/eif)
 
 En esta presentación se mostrará el uso de filtros y perfiles en Wireshark para observar ciertas características del tráfico, permitiendo un análisis más sencillo y específico de un determinado protocolo.
 
@@ -418,11 +449,10 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 ####  El reto de la eficiencia energética para los Datacenters
 
-{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore31/img/amedeo_beck.jpg" alt="Amedo Beck-Peccoz " %}}
 
 
-
-**Javier Achirica**
+**Amedeo Beck-Peccoz**
 
 [https://www.espanix.net/es](https://www.espanix.net/es)
 
@@ -459,7 +489,7 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 **Felipe Cañizares**
 
-[DMNTR Network Solutions](https://dmntr.net/)
+[https://dmntr.net/](https://dmntr.net/)
 
 La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
 Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
@@ -475,10 +505,14 @@ De la droga se sale, de Mikrotik no.
 
 ### 15:15 - 15:45 CEST
 
-##### Por definir
+##### DATA4 - Smart & Escalable Datacenters  (Título por definir)
 
+{{% portfolio image="/gore31/img/virginia_saiz.jpg" alt="Virginia Saiz" %}}
 
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+**Virginia Saiz**
+
+[https://www.data4group.com/](https://www.data4group.com/)
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
