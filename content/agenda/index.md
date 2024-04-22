@@ -170,7 +170,7 @@ Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándono
 QUIC hoy representa alrededor del 30% del tráfico que circula por internet y promete con ir más allá como una respuesta a la imposibilidad de evolución histórica de protocolos como TCP y UDP. ¿Qué nos ha llevado a esta situación? ¿Qué aporta QUIC y cómo ha vencido las limitaciones que hasta hace unos años nos habíamos encontrado? ¿Cómo funciona? ¿Cuáles son las nuevas aplicaciones de QUIC que se están definiendo hoy en día dentro del IETF?
 
 
-([**PRESENTACION en PDF**](/gore30/archivos/esnog_31-octavio_alfageme-osificacion_internet_QUIC))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-octavio_alfageme-osificacion_internet_QUIC.pdf))
 
 {{% /portfolio %}} 
 
@@ -401,6 +401,8 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 
 **Gaël Hernandez**
 
+[https://www.catchpoint.com/](https://www.catchpoint.com/)
+
 Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lleva a cabo, cuáles son las fuentes de datos públicas disponibles y que podemos esperar con la cobertura BGP actual. Más adelante, se explora una metodología para mejorar la cobertura del monitoreo y se presentan los resultados de aplicarla en el contexto español.
 
 
@@ -507,9 +509,9 @@ De la droga se sale, de Mikrotik no.
 
 ##### ¿Cómo debería ser mi CPD? 
 
-{{% portfolio image="/gore31/img/virginia_saiz.jpg" alt="Virginia Saiz" %}}
+{{% portfolio image="/gore31/img/virginia_sainz.jpg" alt="Virginia Sainz" %}}
 
-**Virginia Saiz**
+**Virginia Sainz**
 
 [https://www.data4group.com/](https://www.data4group.com/)
 
