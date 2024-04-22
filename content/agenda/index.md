@@ -170,7 +170,7 @@ Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándono
 QUIC hoy representa alrededor del 30% del tráfico que circula por internet y promete con ir más allá como una respuesta a la imposibilidad de evolución histórica de protocolos como TCP y UDP. ¿Qué nos ha llevado a esta situación? ¿Qué aporta QUIC y cómo ha vencido las limitaciones que hasta hace unos años nos habíamos encontrado? ¿Cómo funciona? ¿Cuáles son las nuevas aplicaciones de QUIC que se están definiendo hoy en día dentro del IETF?
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore30/archivos/esnog_31-octavio_alfageme-osificacion_internet_QUIC))
 
 {{% /portfolio %}} 
 
@@ -381,7 +381,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 **María Isabel Gandía**
 
-[https://geant.org/](https://geant.org/)
+[https://www.csuc.cat/es](https://www.csuc.cat/es)
 
 El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un esfuerzo comunitario iniciado por las Redes Nacionales de Investigación y Educación (NREN) reunidas en el marco de la Asociación GÉANT en Europa. Periódicamente, SIG-NOC realiza una encuesta entre centros de operación de red (NOCs) sobre las herramientas que éstos utilizan para cada una de sus funciones. Esta presentación resumirá los [resultados de la última encuesta](https://wiki.geant.org/display/SIGNOC/SIG-NOC+Tools+Survey+2023), aportando información sobre las herramientas mejor valoradas, más importantes y más populares para cada una de las funciones evaluadas, así como tendencias en comparación con encuestas anteriores y algunas curiosidades. Además, se introducirá el modelo de madurez en orquestación, automatización y virtualización de GÉANT
 
@@ -505,13 +505,15 @@ De la droga se sale, de Mikrotik no.
 
 ### 15:15 - 15:45 CEST
 
-##### DATA4 - Smart & Escalable Datacenters  (Título por definir)
+##### ¿Cómo debería ser mi CPD? 
 
 {{% portfolio image="/gore31/img/virginia_saiz.jpg" alt="Virginia Saiz" %}}
 
 **Virginia Saiz**
 
 [https://www.data4group.com/](https://www.data4group.com/)
+
+Un repaso general a los principales elementos a tener en cuenta a la hora de diseñar o elegir el CPD en el que alojarse, desde el punto de vista de la infraestructura que da soporte al equipamiento IT.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
