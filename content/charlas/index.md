@@ -72,14 +72,14 @@ title: "Presentaciones -  ESNOG 31"
 
 ### Tendencias en herramientas de monitorización de redes: resultados de la encuesta
 
-**Maria Isabel Gandia** (GEANT)
+**Maria Isabel Gandia** (CSUC)
 
 #
 ---------------------------
 
 ######  Datos disponibles para el monitoreo de BGP en España: análisis y resultados
 
-**Gaël Hernandez**
+**Gaël Hernandez** (Catchpoint)
 
 #
 ---------------------------
@@ -93,13 +93,20 @@ title: "Presentaciones -  ESNOG 31"
 
 ### El reto de la eficiencia energética para los DC
 
-**Javier Achirica** (ESPANIX)
+**Amedeo Beck-Peccoz** (ESPANIX)
 
 ---------------------------
 
 #####  Como Mikrotik arruinó mi vida
 
 **Felipe Cañizares** (DMNTR Network Solutions)
+
+#
+---------------------------
+
+#####  ¿Cómo debería ser mi CPD? 
+
+**Virginia Sainz** (Data4group)
 
 #
 ---------------------------
