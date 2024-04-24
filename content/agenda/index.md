@@ -336,7 +336,9 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ### Beers & Talk
 
-El lugar donde se efectuará este acto social se anunciará durante la primera sesión
+La Chula de Valverde
+C/ Valverde 11
+28004 Madrid
 
 {{% /portfolio %}} 
 
@@ -355,7 +357,9 @@ El lugar donde se efectuará este acto social se anunciará durante la primera s
 - Las invitaciones se repartiran durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario estar inscrito previamente.
 
-
+Restaurante Public
+C/Desengaño 11,
+28004 (Madrid)
 {{% /portfolio %}}
 
 
