@@ -86,7 +86,7 @@ Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible
 
 En las redes Ethernet tenemos mucha sobrecarga que afecta al rendimiento de las aplicaciones. Esta sobrecarga provoca que aplicaciones de IA y de HPC necesiten nuevas formas de intercambiar los datos, ahí es donde entran tecnologías como ultraethernet
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-eduardo_collado-ultraethernet.pdf))
 
 {{% /portfolio %}}  
 
@@ -203,7 +203,7 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 [https://www.meta.com/es/](https://www.meta.com/es/)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-mohsen_dalil-how_meta_datacenter_works.pdf))
 
 {{% /portfolio %}} 
 
@@ -226,7 +226,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [https://www.catnix.net/es](https://www.catnix.net/es)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-catnix-novedades.pdf))
 
 {{% /portfolio %}}  
 
@@ -239,7 +239,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [https://www.de-cix.net/](https://www.de-cix.net/)
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-de-cix-novedades.pdf))
 
 {{% /portfolio %}}  
 
@@ -288,7 +288,8 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el objetivo de proteger de manera proactiva y automatizada la red. Alimentando las reglas de filtrado en los firewalls de forma contínuada mediante los datos recolectados y guardados en las bases de datos de ataques de peticiones no lícitas a los honeypots.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-angel_elena-ataques_voip))
+
 
 {{% /portfolio %}}  
 
@@ -307,9 +308,9 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 **Participantes:**
 
-**- Tomas Ledo - [Tecnocratica](https://ww.tecnocratica.net)**\
 **- Juan Antonio Lara Domínguez - Magistrado**\
-**- Por confirmar resto participantes**
+**- Tomas Ledo - [Tecnocratica](https://www.tecnocratica.net)**\
+**- Borja Marcos - [Sarenet](https://www.sarenet.es/)**
 
  
 #
@@ -336,9 +337,6 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 
 ### Beers & Talk
 
-La Chula de Valverde
-C/ Valverde 11
-28004 Madrid
 
 {{% /portfolio %}} 
 
@@ -357,9 +355,7 @@ C/ Valverde 11
 - Las invitaciones se repartiran durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario estar inscrito previamente.
 
-Restaurante Public
-C/Desengaño 11,
-28004 (Madrid)
+
 {{% /portfolio %}}
 
 
@@ -389,7 +385,9 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un esfuerzo comunitario iniciado por las Redes Nacionales de Investigación y Educación (NREN) reunidas en el marco de la Asociación GÉANT en Europa. Periódicamente, SIG-NOC realiza una encuesta entre centros de operación de red (NOCs) sobre las herramientas que éstos utilizan para cada una de sus funciones. Esta presentación resumirá los [resultados de la última encuesta](https://wiki.geant.org/display/SIGNOC/SIG-NOC+Tools+Survey+2023), aportando información sobre las herramientas mejor valoradas, más importantes y más populares para cada una de las funciones evaluadas, así como tendencias en comparación con encuestas anteriores y algunas curiosidades. Además, se introducirá el modelo de madurez en orquestación, automatización y virtualización de GÉANT
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-maria_isabel_gandia-tendencias_herramientas_monitorización_redes_geant.pdf))
+
 
 {{% /portfolio %}} 
 
@@ -410,7 +408,8 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lleva a cabo, cuáles son las fuentes de datos públicas disponibles y que podemos esperar con la cobertura BGP actual. Más adelante, se explora una metodología para mejorar la cobertura del monitoreo y se presentan los resultados de aplicarla en el contexto español.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-gael_hernandez-datos_monitoreo_bgp.pdf))
+
 
 {{% /portfolio %}} 
 
@@ -464,7 +463,9 @@ En esta presentación se mostrará el uso de filtros y perfiles en Wireshark par
 
 Las nuevas leyes europeas establecen planes y objetivos de eficiencia energética que se aplican a todos los DC medianos y grandes. Vamos a ver cuales son los requerimientos y las actuaciones necesarias para cumplir. Y de paso ahorrar en el gasto energético.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-amedeo_beck_peccoz-el_reto_de_la_eficiencia_energetica_para_los_datacenters.pdf))
+
 
 {{% /portfolio %}} 
 
@@ -501,7 +502,7 @@ La historia de como una persona normal y corriente puede acabar arruinando su vi
 Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
 De la droga se sale, de Mikrotik no.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog31-dmntr_net_solutions-como-mikrotik_arruino_mi_vida.pdf))
 
 {{% /portfolio %}} 
 
@@ -522,7 +523,7 @@ De la droga se sale, de Mikrotik no.
 Un repaso general a los principales elementos a tener en cuenta a la hora de diseñar o elegir el CPD en el que alojarse, desde el punto de vista de la infraestructura que da soporte al equipamiento IT.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-virginia_sanz-como_deberia_ser_mi_cpd.pdf))
 
 {{% /portfolio %}} 
 
