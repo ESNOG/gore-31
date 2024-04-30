@@ -288,7 +288,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el objetivo de proteger de manera proactiva y automatizada la red. Alimentando las reglas de filtrado en los firewalls de forma contínuada mediante los datos recolectados y guardados en las bases de datos de ataques de peticiones no lícitas a los honeypots.
 
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-angel_elena-ataques_voip))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-angel_elena-ataques_voip.pdf))
 
 
 {{% /portfolio %}}  
