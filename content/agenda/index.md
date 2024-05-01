@@ -147,8 +147,8 @@ El propósito a largo plazo de este proyecto es posicionarse dentro del panoram
 
 Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándonos en la implementación de una infraestructura completa con ChirpStack como backend. Exploraremos el funcionamiento y ventajas de LoRaWAN, detallaremos la configuración de ChirpStack y la integración de sensores y gateways. Además, demostraremos casos de uso prácticos en verticales resaltando sus beneficios para organizaciones y comunidades
 
+([**PRESENTACION en PDF**](/gore31/archivos/esnog31-bconsultors-IoT_lorawan_como_servicio.pdf))
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
 
