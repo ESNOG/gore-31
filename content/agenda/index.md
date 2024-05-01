@@ -442,7 +442,7 @@ Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lle
 En esta presentación se mostrará el uso de filtros y perfiles en Wireshark para observar ciertas características del tráfico, permitiendo un análisis más sencillo y específico de un determinado protocolo.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore31/archivos/esnog31-eva_m_castro-wireshark.pdf))
 
 {{% /portfolio %}} 
 
